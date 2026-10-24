@@ -1,3 +1,9 @@
-# mcd-acceptance-inspector
+# 凭证与隐私 (绝不入库)
+mcd-token.local.txt
+mcd-token.txt
+*.token
+mcp-config.json
 
-init
+# 系统文件
+Thumbs.db
+.DS_Store
